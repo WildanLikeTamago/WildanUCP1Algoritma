@@ -2,7 +2,7 @@
 #include <string>
 namespace std{}
 
-int main(){	
+int main() {	
     
     //inisialisai data calon mahasiswa
     std::string nama[20] = { "Wawan","Fikri","Luthfi","Akhdan","Naufal","Dimas","Wildan","Deni","Adam","Reza","Chandra","Afnan","Arbiyan","Tedi","Arif","Agus","Dodo","Udin","Tampan","Samsul" };
